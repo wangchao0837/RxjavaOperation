@@ -1,4 +1,4 @@
-#Mon Jul 15 16:53:07 CST 2019
-base.0=/Users/7invensun/AndroidProjects/RxJavaDemo/app/build/intermediates/dex/debug/mergeDexDebug/out
+#Fri Jul 19 14:40:03 CST 2019
+base.0=/Users/7invensun/AndroidProjects/RxJavaDemo/rxjava_map/build/intermediates/dex/debug/mergeDexDebug/out
 path.0=classes.dex
 renamed.0=classes.dex

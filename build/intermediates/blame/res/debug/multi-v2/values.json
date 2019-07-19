@@ -1,27 +1,8 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/7invensun/AndroidProjects/RxJavaDemo/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/Users/7invensun/AndroidProjects/RxJavaDemo/rxjava_map/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
-                {
-                    "source": "/Users/7invensun/AndroidProjects/RxJavaDemo/app/src/main/res/values/styles.xml",
-                    "from": {
-                        "startLines": "3",
-                        "startColumns": "4",
-                        "startOffsets": "54",
-                        "endLines": "8",
-                        "endColumns": "12",
-                        "endOffsets": "368"
-                    },
-                    "to": {
-                        "startLines": "385",
-                        "startColumns": "4",
-                        "startOffsets": "23147",
-                        "endLines": "390",
-                        "endColumns": "12",
-                        "endOffsets": "23461"
-                    }
-                },
                 {
                     "source": "/Users/7invensun/.gradle/caches/transforms-2/files-2.1/05b3f44c93da04f71b8be6e6943a33c9/res/values/values.xml",
                     "from": {
@@ -42,20 +23,22 @@
                     }
                 },
                 {
-                    "source": "/Users/7invensun/AndroidProjects/RxJavaDemo/app/src/main/res/values/colors.xml",
+                    "source": "/Users/7invensun/AndroidProjects/RxJavaDemo/rxjava_map/src/main/res/values/styles.xml",
                     "from": {
-                        "startLines": "4,2,3",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "153,55,102",
-                        "endColumns": "45,46,50",
-                        "endOffsets": "194,97,148"
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "54",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "368"
                     },
                     "to": {
-                        "startLines": "153,154,155",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "7704,7750,7797",
-                        "endColumns": "45,46,50",
-                        "endOffsets": "7745,7792,7843"
+                        "startLines": "385",
+                        "startColumns": "4",
+                        "startOffsets": "23147",
+                        "endLines": "390",
+                        "endColumns": "12",
+                        "endOffsets": "23461"
                     }
                 },
                 {
@@ -97,6 +80,23 @@
                     }
                 },
                 {
+                    "source": "/Users/7invensun/AndroidProjects/RxJavaDemo/rxjava_map/src/main/res/values/colors.xml",
+                    "from": {
+                        "startLines": "4,2,3",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "153,55,102",
+                        "endColumns": "45,46,50",
+                        "endOffsets": "194,97,148"
+                    },
+                    "to": {
+                        "startLines": "153,154,155",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "7704,7750,7797",
+                        "endColumns": "45,46,50",
+                        "endOffsets": "7745,7792,7843"
+                    }
+                },
+                {
                     "source": "/Users/7invensun/.gradle/caches/transforms-2/files-2.1/7ea0070d347fccee3ac6aa3105269a4d/res/values/values.xml",
                     "from": {
                         "startLines": "2,102,3,13",
@@ -116,7 +116,7 @@
                     }
                 },
                 {
-                    "source": "/Users/7invensun/AndroidProjects/RxJavaDemo/app/src/main/res/values/strings.xml",
+                    "source": "/Users/7invensun/AndroidProjects/RxJavaDemo/rxjava_map/src/main/res/values/strings.xml",
                     "from": {
                         "startLines": "1",
                         "startColumns": "4",

@@ -1,7 +1,7 @@
 #Internal package file, do not edit.
-#Mon Jul 15 16:53:07 CST 2019
+#Mon Jul 15 19:19:55 CST 2019
 0.baseType=DIRECTORY
-0.base=/Users/7invensun/AndroidProjects/RxJavaDemo/app/build/intermediates/dex/debug/mergeDexDebug/out
+0.base=/Users/7invensun/AndroidProjects/RxJavaDemo/rxjava_map/build/intermediates/dex/debug/mergeDexDebug/out
 0.path=classes.dex
 0.set=DEX
 count=1

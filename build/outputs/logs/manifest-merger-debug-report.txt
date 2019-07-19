@@ -1,12 +1,11 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/7invensun/AndroidProjects/RxJavaDemo/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /Users/7invensun/AndroidProjects/RxJavaDemo/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /Users/7invensun/AndroidProjects/RxJavaDemo/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /Users/7invensun/AndroidProjects/RxJavaDemo/app/src/main/AndroidManifest.xml:2:1-21:12
+ADDED from /Users/7invensun/AndroidProjects/RxJavaDemo/rxjava_map/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/7invensun/AndroidProjects/RxJavaDemo/rxjava_map/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/7invensun/AndroidProjects/RxJavaDemo/rxjava_map/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/7invensun/AndroidProjects/RxJavaDemo/rxjava_map/src/main/AndroidManifest.xml:2:1-25:12
 MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/7invensun/.gradle/caches/transforms-2/files-2.1/1a982ba789412ae635557f66f3df5ff7/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/7invensun/.gradle/caches/transforms-2/files-2.1/05b3f44c93da04f71b8be6e6943a33c9/AndroidManifest.xml:2:1-11:12
-MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] /Users/7invensun/.gradle/caches/transforms-2/files-2.1/6e72b3d0ad83884ed39df2bb97e81d87/AndroidManifest.xml:15:1-20:12
 MERGED from [androidx.fragment:fragment:1.0.0] /Users/7invensun/.gradle/caches/transforms-2/files-2.1/1b16359002fa0024ac69cc6fbb012e95/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/7invensun/.gradle/caches/transforms-2/files-2.1/5170981c6462f20866381d79b46551cb/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/7invensun/.gradle/caches/transforms-2/files-2.1/bab889537c8d4269fe11afb30dba04ac/AndroidManifest.xml:17:1-22:12
@@ -32,25 +31,33 @@ MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/7invensun/.grad
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/7invensun/.gradle/caches/transforms-2/files-2.1/706a673bed80e379a7d65624374554e1/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/7invensun/.gradle/caches/transforms-2/files-2.1/b932d29d6a5d4a7b6fd7e9a03b33a317/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/7invensun/.gradle/caches/transforms-2/files-2.1/2eaa26d49355545f8f81f213d6e85083/AndroidManifest.xml:17:1-22:12
-INJECTED from /Users/7invensun/AndroidProjects/RxJavaDemo/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /Users/7invensun/AndroidProjects/RxJavaDemo/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /Users/7invensun/AndroidProjects/RxJavaDemo/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/7invensun/AndroidProjects/RxJavaDemo/rxjava_map/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/7invensun/AndroidProjects/RxJavaDemo/rxjava_map/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/7invensun/AndroidProjects/RxJavaDemo/rxjava_map/src/main/AndroidManifest.xml:2:1-25:12
 	package
-		ADDED from /Users/7invensun/AndroidProjects/RxJavaDemo/app/src/main/AndroidManifest.xml:3:5-37
-		INJECTED from /Users/7invensun/AndroidProjects/RxJavaDemo/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/7invensun/AndroidProjects/RxJavaDemo/app/src/main/AndroidManifest.xml
+		ADDED from /Users/7invensun/AndroidProjects/RxJavaDemo/rxjava_map/src/main/AndroidManifest.xml:3:5-37
+		INJECTED from /Users/7invensun/AndroidProjects/RxJavaDemo/rxjava_map/src/main/AndroidManifest.xml
+		INJECTED from /Users/7invensun/AndroidProjects/RxJavaDemo/rxjava_map/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/7invensun/AndroidProjects/RxJavaDemo/app/src/main/AndroidManifest.xml
-		ADDED from /Users/7invensun/AndroidProjects/RxJavaDemo/app/src/main/AndroidManifest.xml:2:1-21:12
-		INJECTED from /Users/7invensun/AndroidProjects/RxJavaDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/7invensun/AndroidProjects/RxJavaDemo/rxjava_map/src/main/AndroidManifest.xml
+		ADDED from /Users/7invensun/AndroidProjects/RxJavaDemo/rxjava_map/src/main/AndroidManifest.xml:2:1-25:12
+		INJECTED from /Users/7invensun/AndroidProjects/RxJavaDemo/rxjava_map/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /Users/7invensun/AndroidProjects/RxJavaDemo/app/src/main/AndroidManifest.xml
-		ADDED from /Users/7invensun/AndroidProjects/RxJavaDemo/app/src/main/AndroidManifest.xml:2:1-21:12
-		INJECTED from /Users/7invensun/AndroidProjects/RxJavaDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/7invensun/AndroidProjects/RxJavaDemo/rxjava_map/src/main/AndroidManifest.xml
+		ADDED from /Users/7invensun/AndroidProjects/RxJavaDemo/rxjava_map/src/main/AndroidManifest.xml:2:1-25:12
+		INJECTED from /Users/7invensun/AndroidProjects/RxJavaDemo/rxjava_map/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/7invensun/AndroidProjects/RxJavaDemo/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /Users/7invensun/AndroidProjects/RxJavaDemo/rxjava_map/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/7invensun/AndroidProjects/RxJavaDemo/rxjava_map/src/main/AndroidManifest.xml:5:5-81
+	android:name
+		ADDED from /Users/7invensun/AndroidProjects/RxJavaDemo/rxjava_map/src/main/AndroidManifest.xml:5:22-78
+uses-permission#android.permission.READ_LOGS
+ADDED from /Users/7invensun/AndroidProjects/RxJavaDemo/rxjava_map/src/main/AndroidManifest.xml:6:5-68
+	android:name
+		ADDED from /Users/7invensun/AndroidProjects/RxJavaDemo/rxjava_map/src/main/AndroidManifest.xml:6:22-65
 application
-ADDED from /Users/7invensun/AndroidProjects/RxJavaDemo/app/src/main/AndroidManifest.xml:5:5-19:19
+ADDED from /Users/7invensun/AndroidProjects/RxJavaDemo/rxjava_map/src/main/AndroidManifest.xml:8:5-23:19
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/7invensun/.gradle/caches/transforms-2/files-2.1/05b3f44c93da04f71b8be6e6943a33c9/AndroidManifest.xml:9:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/7invensun/.gradle/caches/transforms-2/files-2.1/05b3f44c93da04f71b8be6e6943a33c9/AndroidManifest.xml:9:5-20
 MERGED from [androidx.core:core:1.0.1] /Users/7invensun/.gradle/caches/transforms-2/files-2.1/f1289dbb3713ceb70fd1351c5397c94b/AndroidManifest.xml:22:5-89
@@ -60,41 +67,41 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/7inv
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.0.1] /Users/7invensun/.gradle/caches/transforms-2/files-2.1/f1289dbb3713ceb70fd1351c5397c94b/AndroidManifest.xml:22:18-86
 	android:supportsRtl
-		ADDED from /Users/7invensun/AndroidProjects/RxJavaDemo/app/src/main/AndroidManifest.xml:10:9-35
+		ADDED from /Users/7invensun/AndroidProjects/RxJavaDemo/rxjava_map/src/main/AndroidManifest.xml:14:9-35
 	android:label
-		ADDED from /Users/7invensun/AndroidProjects/RxJavaDemo/app/src/main/AndroidManifest.xml:8:9-41
+		ADDED from /Users/7invensun/AndroidProjects/RxJavaDemo/rxjava_map/src/main/AndroidManifest.xml:12:9-41
 	android:roundIcon
-		ADDED from /Users/7invensun/AndroidProjects/RxJavaDemo/app/src/main/AndroidManifest.xml:9:9-54
+		ADDED from /Users/7invensun/AndroidProjects/RxJavaDemo/rxjava_map/src/main/AndroidManifest.xml:13:9-54
 	android:icon
-		ADDED from /Users/7invensun/AndroidProjects/RxJavaDemo/app/src/main/AndroidManifest.xml:7:9-43
+		ADDED from /Users/7invensun/AndroidProjects/RxJavaDemo/rxjava_map/src/main/AndroidManifest.xml:11:9-43
 	android:allowBackup
-		ADDED from /Users/7invensun/AndroidProjects/RxJavaDemo/app/src/main/AndroidManifest.xml:6:9-35
+		ADDED from /Users/7invensun/AndroidProjects/RxJavaDemo/rxjava_map/src/main/AndroidManifest.xml:10:9-35
 	android:theme
-		ADDED from /Users/7invensun/AndroidProjects/RxJavaDemo/app/src/main/AndroidManifest.xml:11:9-40
-activity#com.example.rxjavademo.MainActivity
-ADDED from /Users/7invensun/AndroidProjects/RxJavaDemo/app/src/main/AndroidManifest.xml:12:9-18:20
+		ADDED from /Users/7invensun/AndroidProjects/RxJavaDemo/rxjava_map/src/main/AndroidManifest.xml:15:9-40
 	android:name
-		ADDED from /Users/7invensun/AndroidProjects/RxJavaDemo/app/src/main/AndroidManifest.xml:12:19-47
+		ADDED from /Users/7invensun/AndroidProjects/RxJavaDemo/rxjava_map/src/main/AndroidManifest.xml:9:9-43
+activity#com.example.rxjava_map.MainActivity
+ADDED from /Users/7invensun/AndroidProjects/RxJavaDemo/rxjava_map/src/main/AndroidManifest.xml:16:9-22:20
+	android:name
+		ADDED from /Users/7invensun/AndroidProjects/RxJavaDemo/rxjava_map/src/main/AndroidManifest.xml:16:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/7invensun/AndroidProjects/RxJavaDemo/app/src/main/AndroidManifest.xml:13:13-17:29
+ADDED from /Users/7invensun/AndroidProjects/RxJavaDemo/rxjava_map/src/main/AndroidManifest.xml:17:13-21:29
 action#android.intent.action.MAIN
-ADDED from /Users/7invensun/AndroidProjects/RxJavaDemo/app/src/main/AndroidManifest.xml:14:17-69
+ADDED from /Users/7invensun/AndroidProjects/RxJavaDemo/rxjava_map/src/main/AndroidManifest.xml:18:17-69
 	android:name
-		ADDED from /Users/7invensun/AndroidProjects/RxJavaDemo/app/src/main/AndroidManifest.xml:14:25-66
+		ADDED from /Users/7invensun/AndroidProjects/RxJavaDemo/rxjava_map/src/main/AndroidManifest.xml:18:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/7invensun/AndroidProjects/RxJavaDemo/app/src/main/AndroidManifest.xml:16:17-77
+ADDED from /Users/7invensun/AndroidProjects/RxJavaDemo/rxjava_map/src/main/AndroidManifest.xml:20:17-77
 	android:name
-		ADDED from /Users/7invensun/AndroidProjects/RxJavaDemo/app/src/main/AndroidManifest.xml:16:27-74
+		ADDED from /Users/7invensun/AndroidProjects/RxJavaDemo/rxjava_map/src/main/AndroidManifest.xml:20:27-74
 uses-sdk
-INJECTED from /Users/7invensun/AndroidProjects/RxJavaDemo/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/7invensun/AndroidProjects/RxJavaDemo/app/src/main/AndroidManifest.xml
-INJECTED from /Users/7invensun/AndroidProjects/RxJavaDemo/app/src/main/AndroidManifest.xml
+INJECTED from /Users/7invensun/AndroidProjects/RxJavaDemo/rxjava_map/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/7invensun/AndroidProjects/RxJavaDemo/rxjava_map/src/main/AndroidManifest.xml
+INJECTED from /Users/7invensun/AndroidProjects/RxJavaDemo/rxjava_map/src/main/AndroidManifest.xml
 MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/7invensun/.gradle/caches/transforms-2/files-2.1/1a982ba789412ae635557f66f3df5ff7/AndroidManifest.xml:20:5-44
 MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/7invensun/.gradle/caches/transforms-2/files-2.1/1a982ba789412ae635557f66f3df5ff7/AndroidManifest.xml:20:5-44
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/7invensun/.gradle/caches/transforms-2/files-2.1/05b3f44c93da04f71b8be6e6943a33c9/AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/7invensun/.gradle/caches/transforms-2/files-2.1/05b3f44c93da04f71b8be6e6943a33c9/AndroidManifest.xml:5:5-7:41
-MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] /Users/7invensun/.gradle/caches/transforms-2/files-2.1/6e72b3d0ad83884ed39df2bb97e81d87/AndroidManifest.xml:18:5-43
-MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] /Users/7invensun/.gradle/caches/transforms-2/files-2.1/6e72b3d0ad83884ed39df2bb97e81d87/AndroidManifest.xml:18:5-43
 MERGED from [androidx.fragment:fragment:1.0.0] /Users/7invensun/.gradle/caches/transforms-2/files-2.1/1b16359002fa0024ac69cc6fbb012e95/AndroidManifest.xml:20:5-44
 MERGED from [androidx.fragment:fragment:1.0.0] /Users/7invensun/.gradle/caches/transforms-2/files-2.1/1b16359002fa0024ac69cc6fbb012e95/AndroidManifest.xml:20:5-44
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/7invensun/.gradle/caches/transforms-2/files-2.1/5170981c6462f20866381d79b46551cb/AndroidManifest.xml:20:5-44
@@ -145,13 +152,13 @@ MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/7invensun/.gradle/cac
 MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/7invensun/.gradle/caches/transforms-2/files-2.1/b932d29d6a5d4a7b6fd7e9a03b33a317/AndroidManifest.xml:20:5-44
 MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/7invensun/.gradle/caches/transforms-2/files-2.1/2eaa26d49355545f8f81f213d6e85083/AndroidManifest.xml:20:5-44
 MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/7invensun/.gradle/caches/transforms-2/files-2.1/2eaa26d49355545f8f81f213d6e85083/AndroidManifest.xml:20:5-44
-INJECTED from /Users/7invensun/AndroidProjects/RxJavaDemo/app/src/main/AndroidManifest.xml
-INJECTED from /Users/7invensun/AndroidProjects/RxJavaDemo/app/src/main/AndroidManifest.xml
+INJECTED from /Users/7invensun/AndroidProjects/RxJavaDemo/rxjava_map/src/main/AndroidManifest.xml
+INJECTED from /Users/7invensun/AndroidProjects/RxJavaDemo/rxjava_map/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /Users/7invensun/AndroidProjects/RxJavaDemo/app/src/main/AndroidManifest.xml
-		ADDED from /Users/7invensun/AndroidProjects/RxJavaDemo/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/7invensun/AndroidProjects/RxJavaDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/7invensun/AndroidProjects/RxJavaDemo/rxjava_map/src/main/AndroidManifest.xml
+		ADDED from /Users/7invensun/AndroidProjects/RxJavaDemo/rxjava_map/src/main/AndroidManifest.xml
+		INJECTED from /Users/7invensun/AndroidProjects/RxJavaDemo/rxjava_map/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/7invensun/AndroidProjects/RxJavaDemo/app/src/main/AndroidManifest.xml
-		ADDED from /Users/7invensun/AndroidProjects/RxJavaDemo/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/7invensun/AndroidProjects/RxJavaDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/7invensun/AndroidProjects/RxJavaDemo/rxjava_map/src/main/AndroidManifest.xml
+		ADDED from /Users/7invensun/AndroidProjects/RxJavaDemo/rxjava_map/src/main/AndroidManifest.xml
+		INJECTED from /Users/7invensun/AndroidProjects/RxJavaDemo/rxjava_map/src/main/AndroidManifest.xml

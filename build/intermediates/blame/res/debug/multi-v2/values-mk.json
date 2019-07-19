@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/7invensun/AndroidProjects/RxJavaDemo/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mk/values-mk.xml",
+            "outputFile": "/Users/7invensun/AndroidProjects/RxJavaDemo/rxjava_map/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mk/values-mk.xml",
             "map": [
                 {
                     "source": "/Users/7invensun/.gradle/caches/transforms-2/files-2.1/f1289dbb3713ceb70fd1351c5397c94b/res/values-mk/values-mk.xml",
